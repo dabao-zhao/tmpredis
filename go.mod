@@ -1,4 +1,4 @@
-module tmpredis
+module github.com/dabao-zhao/tmpredis
 
 go 1.16
 
